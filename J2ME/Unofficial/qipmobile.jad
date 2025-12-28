@@ -1,0 +1,25 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.8.1
+Created-By: rbk
+MIDlet-Name: QIP Mobile_pcholmrim
+MIDlet-Version: 1.3.85
+MIDlet-Vendor: rbk
+MIDlet-Icon: icon.png
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.0
+MIDlet-Description: J2ME IM-client
+MIDlet-Info-URL: http://m.qip.ru/
+MIDlet-1: QIP Mobile,/icon.png,ru.qip.QipMobile
+QIP-Version: 1.3.85
+QIP-Date: 26.05.2011
+Background: True
+FlipInsensitive: True
+Nokia-MIDlet-On-Screen-Keypad: no
+Nokia-MIDlet-No-Exit: true
+LGE-MIDlet-On-Screen-Keypad: no
+LGE-MIDlet-Allowed-background: yes
+LGE-MIDlet-Exit: minimize
+MIDlet-Touch-Support: true
+MIDlet-Jar-Size: 467015
+MIDlet-Jar-URL: qipmobile.jar
+Nokia-MIDlet-Category: Game

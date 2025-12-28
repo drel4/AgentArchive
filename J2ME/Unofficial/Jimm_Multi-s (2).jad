@@ -1,0 +1,25 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.7.1
+Created-By: Jimm Project
+MIDlet-Name: Jimm Multi ot Robin2000.awap.ru
+MIDlet-Version: 0.6.4
+MIDlet-Vendor: Jimm Project
+MIDlet-Icon: icon.png
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.0
+MIDlet-Description: J2ME IM-client
+MIDlet-Info-URL: http://m.jimm.net.ru/
+MIDlet-1: Jimm Multi ot Robin2000.awap.ru,/icon.png,jimm.Jimm
+Jimm-Version: 0.6.4m
+Jimm-Date: 23.10.2010
+Background: True
+FlipInsensitive: True
+Nokia-MIDlet-On-Screen-Keypad: no
+Nokia-MIDlet-No-Exit: true
+LGE-MIDlet-On-Screen-Keypad: no
+LGE-MIDlet-Allowed-background: yes
+LGE-MIDlet-Exit: minimize
+T: MIDlet-Touch-Support: true
+MIDlet-Jar-Size: 491516
+MIDlet-Jar-URL: Jimm_Multi-s (2).jar
+Nokia-MIDlet-Category: Game
